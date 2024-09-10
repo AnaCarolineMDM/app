@@ -9,8 +9,8 @@ Como um lego, você orá utilizar para criar algoritimos , ou seja, para resolve
 
 - [x]Comentários
 - [x] Declaração de variáveis (conts, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos)
-- Típos de dados (atring, number, boolean)
+- [x]Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x]Típos de dados (string, number, boolean)
 - Controle do fluxo (if/else)
 - Estrutura e repetição (for, while)
 
@@ -54,3 +54,7 @@ Apresentar os dados
 - [x] Criar 
 - [x] Executar
 - [x] Arrow function / named function
+
+# Estrutura de repetição
+
+- [x] While
