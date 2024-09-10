@@ -7,7 +7,7 @@ Como um lego, você orá utilizar para criar algoritimos , ou seja, para resolve
 
 ## Peças de uma Linaguem
 
-- Comentários
+- [x]Comentários
 - Declaração de variáveis (conts, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Típos de dados (atring, number, boolean)
@@ -19,3 +19,13 @@ Como um lego, você orá utilizar para criar algoritimos , ou seja, para resolve
 Coletar os dados
 Processar os dados (manipular, alterar...)
 Apresentar os dados
+
+## Tipos de dados
+
+Strings (textos): "" '' ``
+Number (Números): 2 1.4
+Functions
+
+## Operadores
+
+Operadores de atribuição de valor
