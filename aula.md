@@ -8,7 +8,7 @@ Como um lego, você orá utilizar para criar algoritimos , ou seja, para resolve
 ## Peças de uma Linaguem
 
 - [x]Comentários
-- Declaração de variáveis (conts, let)
+- [x] Declaração de variáveis (conts, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Típos de dados (atring, number, boolean)
 - Controle do fluxo (if/else)
@@ -20,12 +20,37 @@ Coletar os dados
 Processar os dados (manipular, alterar...)
 Apresentar os dados
 
+
+## Escorpo e variáveis:
+
+- [x] Variáveis globais e locais
+- [x] Constante
+
 ## Tipos de dados
 
-Strings (textos): "" '' ``
-Number (Números): 2 1.4
-Functions
+- [x] Strings (textos): "" '' ``
+- [x] Number (Números): 2 1.4
+- [x] Boolean: true, false
 
 ## Operadores
 
-Operadores de atribuição de valor
+- [x] Operadores de atribuição de valor
+- [x] Operador de contatenação
+
+## Estrutura de dados
+
+### Arrays:
+
+- [x] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Functions
+
+- [x] Criar 
+- [x] Executar
+- [x] Arrow function / named function
