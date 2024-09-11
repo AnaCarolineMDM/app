@@ -17,9 +17,9 @@ Como um lego, você orá utilizar para criar algoritimos , ou seja, para resolve
 
 # Fases da resolução de um problema 
 
-Coletar os dados
-Processar os dados (manipular, alterar...)
-Apresentar os dados
+- [x] Coletar os dados
+- [x] Processar os dados (manipular, alterar...)
+- [x] Apresentar os dados
 
 
 ## Escorpo e variáveis:
@@ -45,7 +45,7 @@ Apresentar os dados
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, [find, forEach, filter] : HDF (Higher Order Functions)
+- [x] Métodos de array: push, [find, forEach, filter, map] : HDF (Higher Order Functions)
 
 ### Objetos:
 
