@@ -72,6 +72,13 @@ Como um lego, você orá utilizar para criar algoritimos , ou seja, para resolve
 
 - [x] Importação de módulos (require,  Common JS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON
+
+- [x] JavaScript Object Notation (.json)
+- [x] JSOM.parse(): transforma de JSON para JS
+- [x] Json.stringify(): transforma de JS para JSON
 
 ## Programações assíncrona e Promises:
 
