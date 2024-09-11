@@ -7,12 +7,13 @@ Como um lego, você orá utilizar para criar algoritimos , ou seja, para resolve
 
 ## Peças de uma Linaguem
 
-- [x]Comentários
+- [x] Comentários
 - [x] Declaração de variáveis (conts, let)
-- [x]Operadores (atribuição, concatenação, matemáticos, lógicos)
-- [x]Típos de dados (string, number, boolean)
-- Controle do fluxo (if/else)
-- Estrutura e repetição (for, while)
+- [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x] Típos de dados (string, number, boolean)
+- [x] Estrutura de dados (function, object, array)
+- [x] Controle do fluxo (if/else)
+- [x] Estrutura e repetição (for, while)
 
 # Fases da resolução de um problema 
 
@@ -34,8 +35,9 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor
-- [x] Operador de contatenação
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de contatenação: +
+- [x] Operadores de comparação: == != <  > <= >= 
 
 ## Estrutura de dados
 
@@ -62,8 +64,14 @@ Apresentar os dados
 # Condicionais 
 
 - [x] Switch
+- [x] if/else
 
 ## Módulos em Node.js
 
 - [x] Importação de módulos (require,  Common JS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programações assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
+
